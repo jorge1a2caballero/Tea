@@ -6,3 +6,4 @@ valorPorMinuto = input("valor por minuto?")
 # sino se hace la conversion existira error porque trata de multiplicar strings
 # calculando el valor total de los minutos juagadas
 total = int(minutos) * int(valorPorMinuto)
+print(total)
