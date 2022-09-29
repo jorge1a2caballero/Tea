@@ -21,7 +21,6 @@ while True:
                 minimo = int(numero)
     except:
         print("entrada invalida")
-        continue
 print("Contador", contador)
 print("suma", suma)
 print("promedio", suma/contador)
