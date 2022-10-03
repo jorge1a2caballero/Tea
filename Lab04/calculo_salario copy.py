@@ -14,4 +14,3 @@ try:
     print(salario)
 except:
     print("Debe introducir un valor numerico.")
-    
