@@ -1,3 +1,6 @@
+from mmap import mmap
+
+
 try:
     entrada = input("Ingrese el nombre del archivo: ")
     archivo = open(entrada, "r", encoding="UTF-8")
